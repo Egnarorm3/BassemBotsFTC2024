@@ -302,7 +302,7 @@ public class RobotAutoDriveToAprilTagOmni extends LinearOpMode
             telemetry.addData("Camera", "Ready");
             telemetry.update();
         }
-
+//hi
         // Set camera controls unless we are stopping.
         if (!isStopRequested())
         {
